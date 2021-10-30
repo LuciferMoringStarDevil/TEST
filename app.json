@@ -30,6 +30,10 @@
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
             "value": ""
+        },
+        "START_PHOTO": {
+            "description": "Youer Start Messenge Photo Link @HK_telegraph_BOT",
+            "value": ""
         }
     },
     "buildpacks": [
